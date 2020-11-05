@@ -14,7 +14,7 @@
 
 * 4. Crear un README.md por defecto
 
-![img](blob:https://imgur.com/880c66cc-8228-4e6a-bc64-4ed6c0323863)
+![img](https://imgur.com/a/P2lMM9w)
 
 * 5. Clonar a nuestra PC
 
