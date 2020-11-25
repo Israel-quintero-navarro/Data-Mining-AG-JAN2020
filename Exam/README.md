@@ -88,3 +88,7 @@ p + geom_jitter() + geom_boxplot(size=0.2, color = "Black", alpha=0.4) +
   <img width="960" height="509" src="https://i.imgur.com/aXC6rJp.png">
   
 </p>
+
+Video link
+
+https://www.youtube.com/watch?v=NrDPUvUa_cs&feature=youtu.be
