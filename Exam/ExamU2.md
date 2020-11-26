@@ -42,7 +42,8 @@ colnames(Data) <- c("Day_of_Week", "Director", "Genre", "Movie_Title", "Release_
                                          "Studio", "Adjusted_Gross", "Budget",
                                          "Gross","IMDb_Rating","MovieLens_Rating",
                                          "Overseas_M", "Overseas", "Profit_M","Profit","Runtime",
-                                         "US","Gross_US")
+                                         "US","Gross_US")                                         "US","Gross_US")
+
 
 ```
 
