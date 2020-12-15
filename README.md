@@ -1,4 +1,3 @@
-
 # Welcome to the repository
 
 _this is the repository for the data mining class on the August - January 2020 period_
@@ -23,11 +22,6 @@ UNIT-1
 >>* [EXAM 1 unit 1](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-1/EXAMS/ExamUnit1.md
 )
 
-> * [PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-1/PRACTIES)
-> * [HOMEWORK](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-1/HOMEWORKS)
-> * [EXAMS](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-1/EXAMS)
-
-
 ## Unit 2
 
 UNIT-2
@@ -42,9 +36,8 @@ UNIT-2
 >>* [EXAM 1 unit 2](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-2/Exam/ExamU2.md)
 
 
-> * [PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/PRACTIES)
-> * [HOMEWORK](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/HOMEWORKS)
-> * [EXAMS](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/Exam)
-## Unit 3
+## Developtment
 
-Developtment
+> * [PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/PRACTIES)
+> * [HOMEWORK](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/Developtment/HOMEWORKS)
+> * [EXAMS](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/Developtment/EXAMS)
