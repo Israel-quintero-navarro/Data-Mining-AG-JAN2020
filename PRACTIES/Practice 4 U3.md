@@ -1,4 +1,5 @@
-Multiple Linear Regression
+### **Multiple Linear Regression**
+
 ```R
 dataset <- read.csv('50_Startups.csv')
 ```
