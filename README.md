@@ -23,11 +23,6 @@ UNIT-1
 >>* [EXAM 1 unit 1](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-1/EXAMS/ExamUnit1.md
 )
 
-> * [PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-1/PRACTIES)
-> * [HOMEWORK](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-1/HOMEWORKS)
-> * [EXAMS](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-1/EXAMS)
-
-
 ## Unit 2
 
 UNIT-2
@@ -41,12 +36,23 @@ UNIT-2
 >[EXAMS](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/Exam)
 >>* [EXAM 1 unit 2](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-2/Exam/ExamU2.md)
 
-
-> * [PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/PRACTIES)
-> * [HOMEWORK](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/HOMEWORKS)
-> * [EXAMS](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/Exam)
-
-
 ## Unit 3
 
-Developtment
+UNIT = 3
+
+>[PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-3/PRACTIES)
+>>* [Practice1](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-3/PRACTIES/Practice%201%20U3.md)
+>>* [Practice2](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-3/PRACTIES/Practice%202%20U3.md)
+>>* [Practice3](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-3/PRACTIES/Practice%203%20U3.md)
+>>* [Practice4](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-3/PRACTIES/Practice%204%20U3.md)
+>>* [Practice5](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-3/PRACTIES/Practice%205%20U3.md)
+
+>[EXAMS](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-3/EXAMS)
+>>* [EXAM 1 unit 3](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-3/EXAMS/Evaluation%20U3.md)
+
+## Developtment
+
+> * [PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/PRACTIES)
+> * [HOMEWORK](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/Developtment/HOMEWORKS)
+> * [EXAMS](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/Developtment/EXAMS)
+
