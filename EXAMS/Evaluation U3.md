@@ -1,4 +1,4 @@
-### **Evaluatori Practice 3**
+### **Evaluaton Practice 3**
 
 
 ##### Implement the Naive Bayes classification model with the Social_Network Ads.csv data set and using the e1071 library 
