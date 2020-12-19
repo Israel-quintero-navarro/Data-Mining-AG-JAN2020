@@ -1,7 +1,7 @@
 ### **Evaluaton Practice 4**
 
 
-##### mplement the K-Means grouping model with the Iris.csv dataset found at https://github.com/jcromerohdz/iris using the kmeans () method in R. 
+##### implement the K-Means grouping model with the Iris.csv dataset found at https://github.com/jcromerohdz/iris using the kmeans () method in R. 
 Once the grouping model is obtained do the corresponding data visualization analysis.
 
 ```R
