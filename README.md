@@ -7,6 +7,7 @@ _in the next weeks some of the jobs, task, test, practices, exams and more will 
 ## Unit 1
 
 UNIT-1
+
 >[PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-1/PRACTIES)
 >>* [Practice1](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-1/PRACTIES/Practice1.md)
 >>* [Practice2](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-1/PRACTIES/Practice2.md)
@@ -21,14 +22,22 @@ UNIT-1
 >>* [EXAM 1 unit 1](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-1/EXAMS/ExamUnit1.md
 )
 
-> * [PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-1/PRACTIES)
-> * [HOMEWORK](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-1/HOMEWORKS)
-> * [EXAMS](intero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-1/EXAMS)
-
-
 ## Unit 2
 
+UNIT-2
 
-## Unit 3
+>[PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/PRACTIES)
+>>* [Practice1](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-2/PRACTIES/Practice1U2.md)
 
-Developtment
+>[HOMEWORK](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/HOMEWORKS)
+>>* [Homework 1 unit 2](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-2/HOMEWORKS/Homework1U2.md)
+
+>[EXAMS](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/Exam)
+>>* [EXAM 1 unit 2](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-2/Exam/ExamU2.md)
+
+
+## Developtment
+
+> * [PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/PRACTIES)
+> * [HOMEWORK](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/Developtment/HOMEWORKS)
+> * [EXAMS](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/Developtment/EXAMS)
