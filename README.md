@@ -33,12 +33,10 @@ UNIT-2
 >[HOMEWORK](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/HOMEWORKS)
 >>* [Homework 1 unit 2](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-2/HOMEWORKS/Homework1U2.md)
 
->[EXAMS](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/Exam)
->>* [EXAM 1 unit 2](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-2/Exam/ExamU2.md)
 
 ## Unit 3
 
-UNIT = 3
+UNIT-3
 
 >[PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-3/PRACTIES)
 >>* [Practice1](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/blob/UNIT-3/PRACTIES/Practice%201%20U3.md)
@@ -52,7 +50,8 @@ UNIT = 3
 
 ## Developtment
 
-> * [PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/UNIT-2/PRACTIES)
+> * [PRACTICES](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/Developtment/PRACTIES)
 > * [HOMEWORK](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/Developtment/HOMEWORKS)
 > * [EXAMS](https://github.com/Israel-quintero-navarro/Data-Mining-AG-JAN2020/tree/Developtment/EXAMS)
+
 
